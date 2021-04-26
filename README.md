@@ -1,2 +1,2 @@
 # Weather-App
-Progressive Weather-App with React JS, deployed on netlify.com
+Progressive Web-App with React JS, deployed on netlify.com
